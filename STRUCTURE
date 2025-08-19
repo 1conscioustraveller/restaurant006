@@ -1,0 +1,6 @@
+/high-cuisine-site
+ ├── index.html
+ ├── styles.css
+ ├── script.js
+ ├── images/ (placeholders for hero, dishes, ambiance, etc.)
+ └── README.md
