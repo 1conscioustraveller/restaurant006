@@ -184,3 +184,11 @@ footer {
   from { opacity: 0; transform: translateY(40px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+  :root {
+      --primary: #8B0000; /* Dark red for accents */
+      --secondary: #D4AF37; /* Gold for highlights */
+      --dark: #222222; /* For text and dark elements */
+      --light: #F8F8F8; /* Light background */
+      --medium: #5A5A5A; /* Secondary text */
+}
